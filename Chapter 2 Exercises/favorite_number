@@ -1,0 +1,6 @@
+##########
+#Created 10/24/2022 by Jared
+##Exercise 2-10: Favorite Number: Use a variable to represent your favorite number. Then, using that variable, create a message that reveals your favorite number. Print that message.
+##########
+favorite_num = 21
+print(f"The author's favorite number is {favorite_num}")
