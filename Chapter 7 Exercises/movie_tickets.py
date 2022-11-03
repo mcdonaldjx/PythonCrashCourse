@@ -3,7 +3,7 @@
 age = ""
 while age != 'quit':
   age = input("Enter your age for your ticket price, or -1 to quit: ")
-  if age.lower() == 'quit':
+  if age.lower() == 'quit' or int(age) < 0:
     break
   else:  
     age = int(age)
