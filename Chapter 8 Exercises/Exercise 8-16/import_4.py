@@ -4,7 +4,7 @@ import album as alb
 # import module_name
 # from module_name import function_name
 # from module_name import function_name as fn
-# import module_name as mn
+# import module_name as mn <---
 # from module_name import *
 music_album = alb.make_album("J.I.D.","DiCapario2,", num_of_songs=14)
 print(music_album)
