@@ -1,0 +1,15 @@
+#Created 12/2/2022 by Jared
+#Exercise 9-15- Lottery Analysis: Make a list or tuple called my_ticket. Write a loop that keeps pulling numbers until your ticket wins. Print a message reporting how many times the loop had to run to give you a winning ticket.
+from random import choice
+characters = ['j','e','k','d','b', 89, 95, 21, 22, 81, 47, 15, 100, 98, 39]
+my_ticket = [choice(characters)]
+print(f"Starting the lottery. Your ticket is {my_ticket[0]}..")
+drawings = 0
+while characters:
+    winner = choice(characters)
+    characters.remove(winner)
+    drawings += 1
+    print(f"Drew {winner}")
+    if winner in my_ticket:
+        print(f"\tYou won! It took {drawings} drawings!")
+        break
