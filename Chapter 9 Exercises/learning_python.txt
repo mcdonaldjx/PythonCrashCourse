@@ -1,0 +1,4 @@
+In Python you can strip strings
+In Python you can use inheritance
+In Python you can define classes easily
+In Python you can print variables easily
