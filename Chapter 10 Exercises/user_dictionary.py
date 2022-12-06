@@ -6,7 +6,8 @@ import json
 def get_stored_info(path):
   """Get stored information if available."""
   if path.exists():
-    user_info = path.read_text()
+    contents = path.read_text()
+    user_info = json.loads(contents)
     return user_info
 
 def get_new_info():
