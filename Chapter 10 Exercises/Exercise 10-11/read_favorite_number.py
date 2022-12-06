@@ -1,5 +1,5 @@
 #Created 12/5/2022 by Jared
-#Exercise 10-10- Favorite Number: Write a  program that reads in a stored number in a file and prints the message “I know your favorite number! It’s _____.”
+#Exercise 10-11- Favorite Number: Write a  program that reads in a stored number in a file and prints the message “I know your favorite number! It’s _____.”
 from pathlib import Path
 import json
 
