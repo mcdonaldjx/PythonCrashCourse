@@ -29,10 +29,6 @@
         <li><a href="https://github.com/mcdonaldjx/PythonCrashCourse/tree/main/Chapter%2012%20Exercises">Chapter 12: A Ship That Fires Bullets</a></li>
         <li><a href="https://github.com/mcdonaldjx/PythonCrashCourse/tree/main/Chapter%2013%20Exercises">Chapter 13: Aliens!</a></li>
         <li><a href="https://github.com/mcdonaldjx/PythonCrashCourse/tree/main/Chapter%2014%20Exercises">Chapter 14: Scoring</a></li>
-        <li><a href="https://github.com/mcdonaldjx/PythonCrashCourse/tree/main/Chapter%2015%20Exercises">Chapter 15: Generating Data</a></li>
-        <li><a href="https://github.com/mcdonaldjx/PythonCrashCourse/tree/main/Chapter%2016%20Exercises">Chapter 16: Downloading Data</a></li>
-        <li><a href="https://github.com/mcdonaldjx/PythonCrashCourse/tree/main/Chapter%2017%20Exercises">Chapter 17: Working With APIs</a></li>
-        <li><a href="https://github.com/mcdonaldjx/PythonCrashCourse/tree/main/Chapter%2018%20Exercises">Chapter 18: Getting Started with Django</a></li>
     </ul>
   </ul>
 </details>
