@@ -1,6 +1,5 @@
 #Created 5/16/2023
-#Exercise 13-4- Steady Rain: Find an image of a raindrop and create a grid of raindrops. Make the raindrops fall toward the bottom of the screen until they disappear.
-
+#Exercise 13-4- Steady Rain: Modify your code in Exercise 13-3 so when a row of raindrops disappears off the bottom of the screen, a new row appears at the top of the screen and begins to fall.
 import pygame
 from raindrop import Raindrop
 
