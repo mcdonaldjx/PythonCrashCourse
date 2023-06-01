@@ -8,7 +8,7 @@ from button import Button
 from settings import Settings
 from target import Target
 
-class Sideways_Shooter:
+class Target_Practice:
   """Overall class to manage game assets and behavior"""
   
   def __init__(self):
@@ -129,5 +129,5 @@ class Sideways_Shooter:
 
 if __name__ == '__main__':
     # Make a game instance and run the game.
-  ai = Sideways_Shooter()
+  ai = Target_Practice()
   ai.run_game()
