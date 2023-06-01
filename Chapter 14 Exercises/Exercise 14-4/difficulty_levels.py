@@ -1,5 +1,5 @@
-# Created 05/31/2023 by Jared
-#Exercise 14-3- Challenging Target Practice: Make the target move faster as the game progresses, and restart the target at the original speed when the player clicks Play.
+# Created 06/01/2023 by Jared
+#Exercise 14-4- Difficulty Levels: Make a set of buttons for Alien Invasion that allows the player to select an appropriate starting difficulty level for the game. Each button should assign the appropriate values for the attributes in Settings needed to create different difficulty levels.
 
 import pygame, sys
 from sideways_ship import Ship
